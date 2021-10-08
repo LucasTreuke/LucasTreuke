@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![alt text](https://cdn.discordapp.com/attachments/848724719964651550/896043258122207242/Captura_de_tela_2021-10-08_113513.png)
-
-
+<img align="left" width="328" height="361" src="https://cdn.discordapp.com/attachments/848724719964651550/896043258122207242/Captura_de_tela_2021-10-08_113513.png">
+## Olá.
+### -To-do: Pensar em algo pra escrever aqui...-
